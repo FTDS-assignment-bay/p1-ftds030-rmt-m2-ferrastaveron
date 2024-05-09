@@ -1,3 +1,0 @@
-dataset: https://www.kaggle.com/datasets/andrewmvd/board-games
-
-deployment: https://huggingface.co/spaces/ferrastaveron/board_game_rating_prediction
